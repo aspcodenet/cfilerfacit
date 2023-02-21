@@ -3,3 +3,6 @@ stefan
 nisse
 lisa
 olle
+holmberg
+jansson
+persson
